@@ -1,4 +1,4 @@
-Task 0 - This script prints the absolute path name of the current working directory
+Initial commit - This script prints the absolute path name of the current working directory
 Task 1 - This script displays the contents list of the current directory
 Task 2 - This script changes the working directory to the user’s home directory
 Task 3 - This script displays the current directory contents in a long format
